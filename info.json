@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "ff7f2399ef053767b9bd87c2018c8226a54a7518",
+    "author": "Scott Chamberlain <sckott@fastmail.com>",
+    "time": "2020-12-30 18:18:46",
+    "files": 2,
+    "merge": false,
+    "message": "add gh actions badge to readme; remove ropensci footer image\n"
+  },
+  "remote": "https://github.com/ropensci/trufflesniffer",
+  "pkg": "trufflesniffer"
+}

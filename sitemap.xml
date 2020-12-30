@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://docs.ropensci.org/trufflesniffer/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/trufflesniffer/reference/cat_results.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/trufflesniffer/reference/sniff_one.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/trufflesniffer/reference/sniff_secrets_fixtures.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/trufflesniffer/reference/sniff_secrets_pkg.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/trufflesniffer/reference/sniffer.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/trufflesniffer/reference/trufflesniffer-package.html</loc>
+  </url>
+</urlset>
